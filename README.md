@@ -1,4 +1,4 @@
-**Skin Cancer Lesion Classification using CNN-LSTM **
+**Skin Cancer Lesion Classification using CNN-LSTM**
 
 **Project Summary:**
 This project delves into the application of deep learning for skin cancer lesion classification. It leverages a CNN-LSTM architecture to analyze images from the extensive HAM10000 dataset, which contains labeled images of various skin lesions. By learning the intricacies within these images, the model aims to assist healthcare professionals in the early detection of skin cancer. It's crucial to emphasize that this project serves educational and research purposes and is not a substitute for a qualified healthcare professional's diagnosis.
