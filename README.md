@@ -1,6 +1,6 @@
-**Deep Learning for Skin Cancer Lesion Classification (HAM10000 Dataset)
+**Deep Learning for Skin Cancer Lesion Classification (HAM10000 Dataset)**
 
-Project Summary:**
+**Project Summary:**
 This project tackles the challenge of skin cancer lesion classification using a Convolutional Neural Network (CNN) architecture. It leverages the extensive HAM10000 dataset, which contains labeled images of various skin lesions. By learning patterns within these images, the model aims to assist healthcare professionals in the early detection of skin cancer. It's crucial to emphasize that this project serves educational and research purposes and is not a substitute for a qualified healthcare professional's diagnosis.
 
 **Technical Approach:
